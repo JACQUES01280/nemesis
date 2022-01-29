@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0FdE6880151Efbf1D2597475BbD8e79Deb3F1445",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0FdE6880151Efbf1D2597475BbD8e79Deb3F1445",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NEMESIS APOCALYPSE",
+  "SYMBOL": "NSA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nemesisapocalypse",
+  "SHOW_BACKGROUND": true
+}
